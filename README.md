@@ -13,7 +13,7 @@ An interactive Power BI dashboard using the Cars dataset to provide insights int
 
 ## Getting Started
 1. Clone this repository.
-2. Open the Power BI file (`Cars24_Dashboard.pbix`).
+2. Open the cars24 project folder inside that open the Power BI file (`Cars24_Dashboard.pbix`) and for raw data open the excel file (`data.xlsx`) .
 3. Explore the interactive dashboard to gain insights into the Cars24 dataset.
 
 ## Contributing
